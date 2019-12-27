@@ -1,11 +1,13 @@
-# VUDO v1.0 (Archive Encryption Tool)
-## Tramell Software Development (R)
+# VUDO v1.0
+## (Archive Encryption Tool)
+
+_Tramell Software Development (R)_
 
 **Requirements**
 
 * Python 3
 * Linux Terminal (console environment)
 
-**Usage..**
+**Usage (in Terminal, run)..**
 
 	$ python vudu.pyc file.zip

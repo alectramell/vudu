@@ -1,7 +1,7 @@
 # VUDO v1.0
 ## (Archive Encryption Tool)
 
-_Tramell Software Development (R)_
+_Tramell Software Development | 2019 (R)_
 
 **Requirements**
 

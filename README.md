@@ -8,4 +8,4 @@
 
 **Usage..**
 
-	> python vudu.pyc file.zip
+	'python vudu.pyc file.zip'
